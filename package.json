@@ -1,0 +1,24 @@
+{
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Christopher Simpson",
+      "url": "https://github.com/CmdrShepardsPie"
+    }
+  ],
+  "dependencies": {
+    "@types/passport": "*",
+    "@types/passport-strategy": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for passport-meetup",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/passport-meetup",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CmdrShepardsPie/passport-meetup.git"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
