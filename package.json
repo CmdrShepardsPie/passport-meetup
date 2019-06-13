@@ -7,8 +7,8 @@
     }
   ],
   "dependencies": {
-    "@types/passport": "*",
-    "@types/passport-strategy": "*"
+    "@types/passport": "~1.0.0",
+    "@types/passport-strategy": "~0.2.35"
   },
   "deprecated": false,
   "description": "TypeScript definitions for passport-meetup",
